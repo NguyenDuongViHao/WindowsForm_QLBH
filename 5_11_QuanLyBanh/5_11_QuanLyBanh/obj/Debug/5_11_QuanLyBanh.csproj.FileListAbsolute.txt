@@ -1,0 +1,313 @@
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Data.v22.2.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmQuanLy_Ban.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.MDIParent1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\Database\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\DoAn_QuanLyBanh\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A HK5\KTPM\ĐỒ ÁN MÔN HỌC\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\KTPM_WINDOWS\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3\WINDOWS\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\ktpm_Sua\mauSua\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+C:\Users\Admin\Desktop\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe.config
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.Interfaces.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.System.Drawing.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\EPPlus.xml
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.AssemblyReference.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.SuggestedBindingRedirects.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Form1.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmDangNhap.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonBan.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmHoaDonNhap.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmKhachHang.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmLoaiSP.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhaCungCap.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDon.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemNhanVien.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTimKiemSanPham.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmTrangChu.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.Properties.Resources.resources
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.GenerateResource.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe.licenses
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CoreCompileInputs.cache
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.csproj.CopyComplete
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.exe
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\5_11_QuanLyBanh.pdb
+D:\CDTH21A_WEB_C\NAM_3_KY1\KTPM\KTPM_WINDOWS\5_11_QuanLyBanh\5_11_QuanLyBanh\obj\Debug\_5_11_QuanLyBanh.frmThongKeHoaDonNhap.resources
